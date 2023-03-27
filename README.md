@@ -1,7 +1,7 @@
 # Sat2Farm Documentation
 
 ### Irrigation
-- Main file : **Irrig.py**
+- Main file : **Irrig_main.py**
   - Dependent files..
     - Irrigation.py
     - localPath.py
