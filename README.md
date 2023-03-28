@@ -6,3 +6,12 @@
     - Irrigation.py
     - localPath.py
     - S3.py
+
+### NDVI
+- Main file : **NDVI_main.py**
+  - Dependent files..
+    - NDVI_PNG.py
+    - localPath.py
+    - S3.py
+
+
