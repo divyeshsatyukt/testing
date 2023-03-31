@@ -14,4 +14,5 @@
     - localPath.py
     - S3.py
     - notifyUser.py
+    - logs.py
 
